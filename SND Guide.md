@@ -1,7 +1,4 @@
-# Dalamud Plugin Command Guide
-
-## **Introduction**
-The Dalamud plugin allows users to automate and simplify tasks within the game using custom macro commands. This guide provides a detailed overview of the available commands, their functionalities, and how to use them effectively.
+# SND Command Guide
 
 ---
 
